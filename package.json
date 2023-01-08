@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://katefranchuk.github.io/ice-cream-landing",
+  "homepage": "https://HannaTubolets.github.io/ice-cream-landing-team-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-landing/"
+    "build": "parcel build src/*.html --public-url /ice-cream-landing-team-project/"
   },
   "repository": {
     "type": "git",
